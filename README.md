@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Ribo Huang. I am an IoT junior. I am curently learning front-end development.
+This is Ribo Huang. I am an IoT junior.
 
 - 🌱 I am currently a student of the IoT and looking for an intership in web developing, cyber cerurity, data analysis, AI and machine learning area. 
 - 👍 Python/ Javascript
@@ -19,7 +19,7 @@ Sent sensor value to MQTT broker.
 - 👉 Could building a simple network and complete the basic configuration of end devices. Projects' link here: https://github.com/Ribo228/networking_essencial
 - 
 - 👉 Have knowledge, skill and awareness of security challenges that exit in the IoT sensors acturator and applications. Projects here: https://github.com/Ribo228/Cybersecurity-Essentials
-- 
+
 - 👉 Create, read, update and delete data repository.
 Database management with SQL command.
 Data analysis with Tableau to create visualazation. Project's link here: https://gitlab.tamk.cloud/courses/5g00fs64-creating-webapis-with-python-and-flask/3001/ribo.huang
