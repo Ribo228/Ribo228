@@ -19,8 +19,6 @@ Have knowledge, skill and awareness of security challenges that exit in the IoT 
 Database management with SQL command.
 Data analysis with Tableau to create visualazation.
 
-- 📫 How to reach me: ...
-
 - 👏 I speak Chinese, English and Finnish. 
 - 🔭 I also had been working in the import and export business area for more than 10 years in Shanghai in a few different companies. And currently I am also working as a shop sales in grocery store in Tampere.
 
