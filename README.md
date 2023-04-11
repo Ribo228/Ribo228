@@ -14,7 +14,7 @@ Familiar machine learning with linear regression  and nearest neighbor method.
 Using Thonny to work with ESP32 to set the devices on.
 Sent sensor value to MQTT broker.
 - 👉 Could building a simple network and complete the basic configuration of end devices.
-Have knowledge, skill and awareness of security challenges that exit in the IoT sensors acturator and applications.
+Have knowledge, skill and awareness of security challenges that exit in the IoT sensors acturator and applications. Projects here: https://github.com/Ribo228/Cybersecurity-Essentials
 - 👉 Create, read, update and delete data repository.
 Database management with SQL command.
 Data analysis with Tableau to create visualazation.
