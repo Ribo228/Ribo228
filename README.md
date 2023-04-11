@@ -4,7 +4,7 @@ This is Ribo Huang.
 - 🌱 I am currently a student of the IoT and looking for an intership in web developing, cyber cerurity, data analysis, AI and machine learning area. 
 - 👍 Python/ Javascript
 - ✨ React, deno, docker, sql
-- 
+
 - 👉 Basic principles of WWW pages ( HTML, CSS) and able to create static pages. 
 Knowledges of event driven programming in browers.
 Familiar with React and Deno library to create App to run on web browsers.
