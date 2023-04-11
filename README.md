@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Ribo Huang. 
+This is Ribo Huang. I am an IoT junior. I am curently learning front-end development.
 
 - 🌱 I am currently a student of the IoT and looking for an intership in web developing, cyber cerurity, data analysis, AI and machine learning area. 
 - 👍 Python/ Javascript
