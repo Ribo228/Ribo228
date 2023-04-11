@@ -3,11 +3,13 @@ This is Ribo Huang. I am an IoT junior.
 
 - 🌱 I am currently a student of the IoT and looking for an intership in web developing, cyber cerurity, data analysis, AI and machine learning area. 
 - 👍 Python/ Javascript
-- ✨ React, deno, docker, sql
+- ✨ React, deno, docker, sql, Packet tracer...
 
 - 👉 Basic principles of WWW pages ( HTML, CSS) and able to create static pages. 
 Knowledges of event driven programming in browers.
 Familiar with React and Deno library to create App to run on web browsers.  Projects' link here:https://github.com/Ribo228/web-software-developing
+
+- 👉 Python projects' link here: https://github.com/Ribo228/mooc-programming-22
 
 - 👉 Familiar AI basic algorithms and classifiers.
 Familiar machine learning with linear regression  and nearest neighbor method. Projects' link here: https://github.com/Ribo228/Element-of-AI
