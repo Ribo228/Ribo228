@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Ribo Huang. I am an IoT junior.
 
-- 🌱 I am currently a student of the IoT and looking for an intership in fullstack, web developing, cyber cerurity, data analysis, AI and machine learning area. 
+- 🌱 I am currently a student of the IoT and looking for an internship in fullstack, web developing, cyber serurity, data analysis, AI and machine learning area. 
 - 👍 Python/ Javascript
 - ✨ React, node, express, deno, docker, sql, tableau, Packet tracer...
 
